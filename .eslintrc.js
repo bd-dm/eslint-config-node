@@ -13,6 +13,7 @@ module.exports = {
 			node: {
 				extensions: [".js", ".ts"],
 			},
+			typescript: {},
 		},
 	},
 	env: {
