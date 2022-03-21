@@ -1,6 +1,6 @@
 {
   "name": "@bd-dm/eslint-config-node",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ESLint config for NodeJS",
   "main": "index.js",
   "repository": "https://github.com/bd-dm/eslint-config-node",
